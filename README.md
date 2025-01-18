@@ -34,7 +34,7 @@
 
 12. Make sure when you click the hyperlink, the hobbies webpage is opened.
 
-13. Create a `concat.html` file and link it to the `index.html` using an hyperlink under Others section.
+13. Create a `contact.html` file and link it to the `index.html` using an hyperlink under Others section.
 
 14.  Write down your contact information in separate pragraphs.
 
