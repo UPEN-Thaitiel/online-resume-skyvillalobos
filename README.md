@@ -39,10 +39,6 @@
 14.  Write down your contact information in separate pragraphs.
 
 
-**NOTE:**  *Imagine you are a professional developer working on this project. There will be things you don't know, things you want to do but haven't yet learnt how to. As a professional developer, you need to know the limits of your abilities and look up other things in Google, MDN docs, the internet.*
-
-
-
 ## Evaluation Rubric for Online Resume Project
 
 | **Category**       | **Criteria**                                   | **Excellent (90–100)**       | **Good (75–89)**        | **Satisfactory (50–74)** | **Needs Improvement (<50)** |
